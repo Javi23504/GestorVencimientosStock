@@ -30,7 +30,7 @@ Aplicación de escritorio que permite:
 
 1. **Clonar el repositorio**
    git clone https://github.com/Javi230504/GestorVencimientosStock.git
-   cd GestorVencimientosStock
+   cd GVS
 
 2. **Crear la base de datos**
    - Abrir MySQL Workbench
