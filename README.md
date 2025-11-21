@@ -29,7 +29,7 @@ Aplicación de escritorio que permite:
 ### Pasos de instalación
 
 1. **Clonar el repositorio**
-   git clone https://github.com/Jsvi230504/GestorVencimientosStock.git
+   git clone https://github.com/Javi230504/GestorVencimientosStock.git
    cd GestorVencimientosStock
 
 2. **Crear la base de datos**
