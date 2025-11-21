@@ -30,7 +30,7 @@ Aplicación de escritorio que permite:
 
 1. **Clonar el repositorio**
    git clone https://github.com/Javi23504/GestorVencimientosStock.git
-   cd Proyecto GVS
+   cd GestorVencimientosStock
 
 2. **Crear la base de datos**
    - Abrir MySQL Workbench
@@ -43,4 +43,4 @@ Aplicación de escritorio que permite:
 4. **Ejecutar el proyecto**
    - Opción 1: Abrir en NetBeans y ejecutar (F6)
    - Opción 2: Ejecutar el .jar en tu terminal
-     java -jar dist/GestorVencimientosStock.jar
+     java -jar GestorVencimientosStock.jar
